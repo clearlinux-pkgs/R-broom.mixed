@@ -4,7 +4,7 @@
 #
 Name     : R-broom.mixed
 Version  : 0.2.9.4
-Release  : 8
+Release  : 9
 URL      : https://cran.r-project.org/src/contrib/broom.mixed_0.2.9.4.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/broom.mixed_0.2.9.4.tar.gz
 Summary  : Tidying Methods for Mixed Models
